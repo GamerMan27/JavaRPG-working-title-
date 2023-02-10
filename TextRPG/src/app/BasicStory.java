@@ -97,7 +97,7 @@ package app;
  * 	"Orders accepted. Ending comm." You reply into the mic, before pressing the comm button again. Removing a panel on the grip of the pistol, you find the distress button and press it.
  * As you fly to the Concordia, you see the battle raging just a little bit aways. Your comrades fighting. Getting kills and suffering losses. You want to go help them, but 
  * continue on. Halfway through the flight, a squad of 6 Gregorians pull up next to your ship. They enter a circle formation, around his ship. Shortly after, a squad of Thanatos class
- * Kaarg fighters engage the Gregorians. They pull away, with two gregorians staying in formation with your ship. As you close in on the Concordia, all of a sudden the controls stop responding.
+ * Kaarg fighters engage the Gregorians. They pull away, with two Gregorians staying in formation with your ship. As you close in on the Concordia, all of a sudden the controls stop responding.
  * The Concordia grabbed the Thanatos with its tractor beam, and was towing it inside the hangar. Suddenly, the two Gregorians break off and you see a damage indicator light up.
  * You just took damage to the left wing of your fighter. You register two more hits before you are safely in the hangar.
  * 
